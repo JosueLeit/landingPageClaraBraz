@@ -1,0 +1,73 @@
+html { font-size: 62.5%; } 
+body { font-size: 14px; font-size: 1.4rem; } /* =14px */
+/* h1   { font-size: 24px; font-size: 2.4rem; } =24px */
+ *{
+   margin:0;
+ }
+
+.container{
+  display: flex;
+  justify-content: space-between;
+  background-color: #895360;
+  width: 100%;
+  height: 61rem;
+   
+}
+
+h1{
+  font-size: 6rem;
+  color: #ffffff;
+  font-family: 'Roboto';
+  width: 74rem;
+  margin-top: 20rem;
+  margin-left: 8rem;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 0.01rem;
+}
+.presentation {
+  width: 64rem;
+  height: 9.14rem;
+  left: 0.8rem;
+  top:3rem;
+  margin-left: 8rem;
+  
+  color: #ffffff;
+  font-size: 2rem;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  /* line-height: 4rem; */
+  
+}
+.fireLabel {
+  color: #ffffff;
+  position: absolute;
+  left: 0.8rem;
+  top:8rem;
+  margin-left: 8rem;
+}
+.scheduleButton{
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.1rem;
+  position: absolute;
+  width: 21rem;
+  height: 3.5rem;
+  border-radius: 0.25rem;
+  border: none;
+  background-color: #C3A150;
+  margin-top: 4rem;
+  margin-left: 35rem;
+}
+
+.logoPhoto{
+  /* display:flex; */
+  /* position: absolute; */
+  /* width: 67rem; */
+  height: 63rem;
+  right: auto;
+  } 
+
+  
