@@ -51,7 +51,7 @@ body { font-size: 14px; font-size: 1.4rem; } /* =14px */
   color: #ffffff;
   font-family: 'Roboto';
   font-weight: 700;
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   position: absolute;
   width: 21rem;
   height: 3.5rem;
@@ -63,7 +63,7 @@ body { font-size: 14px; font-size: 1.4rem; } /* =14px */
 }
 
 .logoPhoto{
-  /* display:flex; */
+  display:flex;
   /* position: absolute; */
   /* width: 67rem; */
   height: 63rem;

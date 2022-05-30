@@ -1,5 +1,5 @@
-import Home from "./Components/Home"
-import Services from "./Components/Services"
+import Home from "./Components/Home.jsx"
+import Services from "./Components/Services.jsx"
 
 export default function App() {
   return (
