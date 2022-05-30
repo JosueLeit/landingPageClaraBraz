@@ -14,7 +14,7 @@ body { font-size: 14px; font-size: 1.4rem; } /* =14px */
    
 }
 
-h1{
+.headLineMainBanner {
   font-size: 6rem;
   color: #ffffff;
   font-family: 'Roboto';
