@@ -1,0 +1,76 @@
+.containerAbout {
+position: relative;
+top: 0px;
+flex-direction: column;
+/* padding: 0 4rem 5rem 0 ; */
+margin-left: 20vw;
+margin-right: 20vw;
+}
+
+.photo {
+  position: absolute;
+  top:2.3rem;
+  left: 2.5rem;
+}
+
+.brandWrited {
+  position: absolute;
+  top: 8rem;
+  left: 27rem;
+  color: #ffffff;
+  /* margin-left: 54rem; */
+}
+
+.aboutProfessional {
+  position: absolute;
+  top: 4rem;
+  left: 27rem;
+  color: #7E6935;
+  font-size: 1.9rem;
+  font-style: normal;
+  font-weight: 400;
+  font-family: 'Roboto';
+  line-height: 2rem;
+}
+
+.text {
+  position: absolute;
+  width: 566px;
+  height: 500;
+  top: 14rem;
+  left: 27.64rem;
+  color: #7E6935;
+  font-size: 1.3rem;
+  font-style: normal;
+  font-weight: 400;
+  font-family: 'Roboto';
+  line-height: 1.2rem;
+  display: flex;
+  align-items: center;
+  text-align: justify;
+  letter-spacing: 0.015em;
+}
+
+.question {
+  position: absolute;
+  align-items: center;
+  top: 36rem;
+  left: 5.5rem;
+  color: #7E6935;
+  font-size: 1.2rem;
+  line-height: 1.2rem;
+  font-weight: 700;
+}
+
+ .contactButtons {
+  display: flex;
+  align-content: space-around;
+  position: absolute;
+  align-items: center;
+  top: 38rem;
+  left: 5.4rem;
+}
+
+a {
+  padding: 0.6rem;
+}

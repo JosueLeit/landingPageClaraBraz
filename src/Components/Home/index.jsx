@@ -1,6 +1,6 @@
-import "./home.css"
-import logoBannerPhoto from "../images/logoBannerPhoto.png"
-import cardLogo from "../images/cardLogo.svg"
+import "../Home/styles.css"
+import logoBannerPhoto from "../../images/logoBannerPhoto.png"
+import cardLogo from "../../images/cardLogo.svg"
 
 export default function Home() {
   return (
@@ -11,7 +11,7 @@ export default function Home() {
                     <img src={cardLogo} className="fireLogo"alt="logo e apresentação"/> 
                     
         </div>
-            <div className="textBanner">
+        <div>
             <h1 className="headLineMainBanner">Psicoterapia para
             ressignificar suas perdas</h1>
 

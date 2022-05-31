@@ -1,15 +1,11 @@
-import "./services.css"
-import brain from "../images/icons/brain.svg"
-import businessTarotMap from "../images/icons/businessTarotMap.svg"
-import familyConstelation from "../images/icons/familyConstelation.svg"
-import spiral from "../images/icons/spiral.svg"
-import tarotMap from "../images/icons/tarotMap.svg"
-import therapeuticTarot from "../images/icons/therapeuticTarot.svg"
-import yoga from "../images/icons/yoga.svg"
-
-
-
-
+import "./styles.css"
+import brain from "../../images/icons/brain.svg"
+import businessTarotMap from "../../images/icons/businessTarotMap.svg"
+import familyConstelation from "../../images/icons/familyConstelation.svg"
+import spiral from "../../images/icons/spiral.svg"
+import tarotMap from "../../images/icons/tarotMap.svg"
+import therapeuticTarot from "../../images/icons/therapeuticTarot.svg"
+import yoga from "../../images/icons/yoga.svg"
 
 export default function Services() {
   return (
@@ -64,6 +60,8 @@ export default function Services() {
           <a href="#">Saiba mais &gt;</a>
         </div>
     </div>
+    <br/><br/><br/>
+    <button className="purpleScheduleButton"> AGENDAR UMA CONSULTA AGORA!</button>
     </div>      
       
 )

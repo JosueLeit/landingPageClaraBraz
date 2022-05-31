@@ -5,6 +5,7 @@
   align-items: center;
   padding: 2rem;
   align-content: space-around;
+  
 }
 
 .headlineServices {
@@ -86,4 +87,18 @@ h6 {
   font-size: 1.4rem;
   width: 15rem;
   text-align: center;
+}
+
+.purpleScheduleButton{
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 1.3rem;
+  /* position: absolute; */
+  width: 23rem;
+  height: 3.5rem;
+  border-radius: 0.25rem;
+  border: none;
+  background-color: #8A5360;
+  bottom: 115rem;
 }
