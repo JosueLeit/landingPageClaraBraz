@@ -1,5 +1,5 @@
 import "../Home/styles.css"
-import logoBannerPhoto from "../../images/logoBannerPhoto.png"
+import logoBannerPhoto from "../../images/logoBannerPhoto.svg"
 import cardLogo from "../../images/cardLogo.svg"
 
 export default function Home() {
@@ -22,6 +22,6 @@ export default function Home() {
             </div>
         <img src={logoBannerPhoto} className="logoPhoto"alt="foto de rosto"/>
         </div>
-  </>    
+      </>    
 )
 }
